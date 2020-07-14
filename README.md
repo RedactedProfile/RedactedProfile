@@ -12,6 +12,15 @@ I work on several projects simultaneously. These are my personal projects that k
 I like to contribute where I can, here are the projects I volunteer code or documentation too:
 * [CSS-Sprite](https://github.com/pmaxs/css-sprite), a configurable PHP package to generate a sprite sheet from a directory of images
 
+I live stream programming at:
+* [twitch.tv/silent_coyote](https://twitch.tv/silent_coyote) 
+
+I upload tech related content at:
+* [KyTech](https://www.youtube.com/channel/UCvHTsQyArPbbqvPo65qLE0g)
+
+I release game project footage to
+* [RedactedGames](https://www.youtube.com/channel/UCvdzsh3GwQLCxAVAHokhe7Q)
+
 ### 🌱 I’m currently learning 
 * C++
 * OpenGL 
