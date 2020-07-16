@@ -2,6 +2,8 @@
 
 I am a web developer by profession, and game developer by hobby.  You will absolutely find a mixture of both here.
 
+I keep a general DevLog of all my projects here: https://redacteddevworks.ca 
+
 ### 🔭 Currently Working
 I work on several projects simultaneously. These are my personal projects that keep me sane:
 * [BlackLotus](https://github.com/RedactedProfile/BlackLotus), a 2.5D Raycaster game inspired by Wolf3D, written with C++ and OpenGL
