@@ -26,6 +26,7 @@ I release game project footage to
 ### 🌱 I’m currently learning 
 * C++
 * OpenGL 
+* DirectX
 * ES6 JS
 
 <!--
