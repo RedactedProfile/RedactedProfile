@@ -6,7 +6,7 @@ I keep a general DevLog of all my projects here: https://redacteddevworks.ca
 
 ### 🔭 Currently Working
 I work on several projects simultaneously. These are my personal projects that keep me sane:
-* [BlackLotus](https://redacted-games.itch.io/blacklotus), a 2.5D Raycaster game inspired by Wolf3D, written with C++ and OpenGL
+* [BlackLotus](https://www.patreon.com/helloky?filters[tag]=Black%20Lotus), a 2.5D Raycaster game inspired by Wolf3D, written with C++ and OpenGL
 * Corrode, a 3D cyberpunk game inspired by Hotline Miami 
 * [Echo](https://github.com/RedactedProfile/Echo), an in-memory cache database, authored with the new Deno runtime
 * StreamRaiser, a series of Streamer tools authored with Angular and Node. (private for now, open soon)
