@@ -11,7 +11,7 @@ I like to contribute where I can, here are the projects I volunteer code or docu
 * [CSS-Sprite](https://github.com/pmaxs/css-sprite), a configurable PHP package to generate a sprite sheet from a directory of images
 
 I live stream programming at:
-* [https://www.youtube.com/channel/UCvHTsQyArPbbqvPo65qLE0g/live](KyTech - Live)
+* [KyTech - Live](https://www.youtube.com/channel/UCvHTsQyArPbbqvPo65qLE0g/live)
 
 ### 🌱 I work with
 * C++
