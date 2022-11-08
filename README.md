@@ -5,19 +5,23 @@ I am a web developer by profession, and game developer by hobby.  You will find 
 I keep a general DevLog of all my projects here: https://redactedgames.ca/ky
 
 ### 🔭 Currently Working On
-* BlackLotus: a 2.5D Raycaster game inspired by Wolf3D, written with C++ and OpenGL
+* Creating a full 3D scene in a custom renderer, with imported models, a noclip camera, and at least one skeletal animated mesh 
 
 I like to contribute where I can, here are the projects I volunteer code or documentation too:
 * [CSS-Sprite](https://github.com/pmaxs/css-sprite), a configurable PHP package to generate a sprite sheet from a directory of images
 
 I live stream programming at:
-* [twitch.tv/silent_coyote](https://twitch.tv/silent_coyote) 
+* [https://www.youtube.com/channel/UCvHTsQyArPbbqvPo65qLE0g/live](KyTech - Live)
 
-### 🌱 I’m currently learning 
+### 🌱 I work with
 * C++
+* C#
 * OpenGL 
 * DirectX
 * .NET Core 
+* PHP
+* Javascript
+* Python
 
 ### ⚡ Fun fact: 
 Uh 
