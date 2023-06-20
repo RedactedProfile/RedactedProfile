@@ -10,9 +10,6 @@ I keep a general DevLog of all my projects here: https://redactedgames.ca/ky
 I like to contribute where I can, here are the projects I volunteer code or documentation too:
 * [CSS-Sprite](https://github.com/pmaxs/css-sprite), a configurable PHP package to generate a sprite sheet from a directory of images
 
-I live stream programming at:
-* [KyTech - Live](https://www.youtube.com/channel/UCvHTsQyArPbbqvPo65qLE0g/live)
-
 ### 🌱 I work with
 * C++
 * C#
