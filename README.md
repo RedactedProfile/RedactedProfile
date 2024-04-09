@@ -2,7 +2,10 @@
 
 I am a web developer by profession, and game developer by hobby.  You will find a mixture of both here.
 
-I keep a general DevLog of all my projects here: https://redactedgames.ca/ky
+I keep a general DevLog of all my projects here: 
+- https://kyle.teamharrison.ca
+- https://redactedgames.ca/ky
+- and https://ninja-ghost.itch.io
 
 ### 🔭 Currently Working On
 * Creating a full 3D scene in a custom renderer, with imported models, a noclip camera, and at least one skeletal animated mesh 
