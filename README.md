@@ -1,27 +1,40 @@
-## Hi there 👋 My name is Ky. 
+## Hi there 👋 My name is Kyle. 
 
-I am a web developer by profession, and game developer by hobby.  You will find a mixture of both here.
+I am a web developer by profession, and dabble in game development as a hobby.  You will find a mixture of both here.
 
 I keep a general DevLog of all my projects here: 
 - https://kyle.teamharrison.ca
 - https://redactedgames.ca/ky
 - and https://ninja-ghost.itch.io
 
-### 🔭 Currently Working On
-* Creating a full 3D scene in a custom renderer, with imported models, a noclip camera, and at least one skeletal animated mesh 
-
-I like to contribute where I can, here are the projects I volunteer code or documentation too:
-* [CSS-Sprite](https://github.com/pmaxs/css-sprite), a configurable PHP package to generate a sprite sheet from a directory of images
-
-### 🌱 I work with
-* C++
-* C#
-* OpenGL 
-* DirectX
-* .NET Core 
-* PHP
-* Javascript
-* Python
+### 🔭 Currently Working With
+<div>
+  <sup>Languages</sup>
+  <div>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" alt="C++" />  
+    <img height="32" width="32" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/php" alt="PHP" />
+  </div>
+  <sup>Frameworks</sup>
+  <div>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/symfony" alt="Symfony (PHP)" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/codeigniter" alt="CodeIgniter (PHP)" />
+    <img height="32" width="32" src="https://libgdx.com/assets/brand/stacked.png" alt="LibGDX (Java)" />
+    <img height="32" width="32" src="https://learncgames.com/wp-content/uploads/2020/11/SDL-logo.png" alt="SDL2 (C++)" />
+  </div>
+  <sup>Editors</sup>
+  <div>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/neovim" alt="NeoVim" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea" alt="IntelliJ" />
+  </div>
+  <sup>API's</sup>
+  <div>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/opengl" alt="OpenGL (C++)" />
+    
+    
+  </div>
+  
+</div>
 
 ### ⚡ Fun fact: 
 Uh 
