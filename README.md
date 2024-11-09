@@ -11,12 +11,13 @@ I keep a general DevLog of all my projects here:
 <div>
   <sup>Languages</sup>
   <div>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" alt="C++" />  
     <img height="32" width="32" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" alt="C++" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/php" alt="PHP" />
   </div>
   <sup>Frameworks</sup>
   <div>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/spring" alt="Spring Boot (Java)" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/symfony" alt="Symfony (PHP)" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/codeigniter" alt="CodeIgniter (PHP)" />
     <img height="32" width="32" src="https://libgdx.com/assets/brand/stacked.png" alt="LibGDX (Java)" />
