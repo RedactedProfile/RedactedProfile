@@ -1,11 +1,6 @@
 ## Hi there 👋 My name is Kyle. 
 
-I am a web developer by profession, and dabble in game development as a hobby.  You will find a mixture of both here.
-
-I keep a general DevLog of all my projects here: 
-- https://kyle.teamharrison.ca
-- https://redactedgames.ca/ky
-- and https://ninja-ghost.itch.io
+I am a web developer by profession. A general programmer all around, I like to dabble in a lot of different topics. In my repos you can find web stuff (especially frameworks, I love building frameworks), gamedev, game modding, graphics dev (low level api stuff, not shaders), advent of code (love me a good puzzle), and whatever interests me at the time.  I've been here on GitHub for about 15 years now, pushing all kinds of code up.  It's been quite the journey.   I've recently gotten back into 3D Animation (what I went to College for) so expect to also see some MEL and Python scripts for Maya and Blender to show up here too. 
 
 ### 🔭 Currently Working With
 <div>
