@@ -3,6 +3,7 @@
 I am a web developer by profession. A general programmer all around, I like to dabble in a lot of different topics. In my repos you can find web stuff (especially frameworks, I love building frameworks), gamedev, game modding, graphics dev (low level api stuff, not shaders), advent of code (love me a good puzzle), and whatever interests me at the time.  I've been here on GitHub for about 15 years now, pushing all kinds of code up.  It's been quite the journey.   I've recently gotten back into 3D Animation (what I went to College for) so expect to also see some MEL and Python scripts for Maya and Blender to show up here too. 
 
 ### .plan 
+- <a href="./blog/20251012.md">September 12th 2025 - End of the Road</a>
 - <a href="./blog/20250329.md">March 29th 2025 - Codeigniter</a>
 
 ### 🔭 Currently Working With
