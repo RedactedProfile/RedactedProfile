@@ -67,3 +67,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RedactedProfile}/count.svg" /></p> 
+
+> [!NOTE]
+> This is a note. Useful information users should know.
